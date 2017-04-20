@@ -1,4 +1,7 @@
-# test coverage for  [camelize (v1.0.0)](https://github.com/substack/camelize)  [![npm package](https://img.shields.io/npm/v/npmtest-camelize.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-camelize) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-camelize.svg)](https://travis-ci.org/npmtest/node-npmtest-camelize)
+# npmtest-camelize
+
+#### basic test coverage for  [camelize (v1.0.0)](https://github.com/substack/camelize)  [![npm package](https://img.shields.io/npm/v/npmtest-camelize.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-camelize) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-camelize.svg)](https://travis-ci.org/npmtest/node-npmtest-camelize)
+
 #### recursively transform key strings to camel-case
 
 [![NPM](https://nodei.co/npm/camelize.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/camelize)
